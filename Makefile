@@ -3,7 +3,7 @@
 ROOTDIR=..
 include ${ROOTDIR}/Makefile.path
 
-SHLIB=		jives.so
+#SHLIB=		jives.so
 SRCS+=		jives.c
 SRCS+=		${PFL_BASE}/fuse.c
 
